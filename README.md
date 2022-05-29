@@ -1,5 +1,8 @@
-# Data Science Portfolio
-A collection of Data Science and Machine Learning projects
-# Project 1: 
-Develop a model to forecast PM2.5 levels in China
+# Data Science / ML Portfolio
+
+This file contains a collection of the Data Science and Machine Learning / Deep Learning Related Projects
+
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Image Classification of an American Sign Language Dataset
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
